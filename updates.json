@@ -1,6 +1,6 @@
 {
   "latest_version": "4.0.0",
-  "download_url": "https://my-store.lemonsqueezy.com/download/codice-di-download-del-file",
-  "release_date": "2023-04-10",
-  "changelog": "- Versione iniziale del software\n- Funzionalità complete implementate"
+  "download_url": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID",
+  "release_date": "2023-04-02",
+  "changelog": "- Versione iniziale\n- Prima implementazione del sistema di aggiornamento"
 }
