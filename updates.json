@@ -1,5 +1,5 @@
 {
-  "latest_version": "4.0.0",
+  "latest_version": "3.0.0",
   "download_url": "https://github.com/Landingator/updates.json/releases/download/Landingator_update/landingator.exe",
   "release_date": "2023-04-03",
   "changelog": "- Versione iniziale\n- Prima implementazione del sistema di aggiornamento"
